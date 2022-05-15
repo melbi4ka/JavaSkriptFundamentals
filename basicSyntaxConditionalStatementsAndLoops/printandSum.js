@@ -11,6 +11,3 @@ function printAndSum (startNum, endNum){
     console.log(numsForPrint)
     console.log(`Sum: ${sum}`)
 }
-printAndSum(5, 10)
-printAndSum(0, 26)
-printAndSum(50, 60)
