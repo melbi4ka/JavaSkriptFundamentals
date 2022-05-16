@@ -43,6 +43,4 @@ function vacation (group, type, day){
     }
     let totalPrice = group * price
     console.log(`Total price: ${totalPrice.toFixed(2)}`)
-
 }
-    
