@@ -25,5 +25,3 @@ function pyramid (base, increment){
         console.log(`Gold required: ${Math.ceil(gold)}`)
         console.log(`Final pyramid height: ${Math.floor(steps * increment)}`)
 }
-
-pyramid(23, 0.5)
