@@ -45,18 +45,4 @@ function vacation (group, type, day){
     console.log(`Total price: ${totalPrice.toFixed(2)}`)
 
 }
-vacation(30,
-    "Students",
-    "Sunday"
-    )
-vacation(40,
-    "Regular",
-    "Saturday"
-    )
-
-    
-	//Friday	Saturday	Sunday
-    //Students	8.45	9.80	10.46
-    //Business	10.90	15.60	16
-    //Regular	15	20	22.50
     
