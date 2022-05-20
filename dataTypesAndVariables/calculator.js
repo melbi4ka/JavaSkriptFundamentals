@@ -16,5 +16,3 @@ function spiceMustFlow (startinYield){
     console.log(dayCounter);
     console.log(totalAmounth)
 }
-spiceMustFlow(111)
-spiceMustFlow(450)
