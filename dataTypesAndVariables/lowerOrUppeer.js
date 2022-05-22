@@ -5,6 +5,3 @@ function lowerOrUpper(char){
         console.log("lower-case")
     }
 }
-
-lowerOrUpper('L')
-lowerOrUpper('f')
