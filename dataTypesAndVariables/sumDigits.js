@@ -8,7 +8,3 @@ function sumDigits (number){
     } 
     console.log(sum)
 }
-
-sumDigits(245678)
-sumDigits(97561)
-sumDigits(543)
