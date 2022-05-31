@@ -16,6 +16,3 @@ function addAndSubtract (arr){
     console.log(oldSum)
     console.log(newSum)      
 }
-addAndSubtract([5, 15, 23, 56, 35])
-console.log("------")
-addAndSubtract([-5, 11, 3, 0, 2])
